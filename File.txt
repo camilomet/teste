@@ -11,3 +11,4 @@ git push origin master
 git branch 		ver rama actual
 git branch NOMBRE	CREAR RAMA
 git checkout NOMBRE		CAMBIAR RAMA
+git merge nombre nombre
