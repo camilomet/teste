@@ -1,0 +1,12 @@
+git init
+git config user.name "camilomet"
+git config user.email "camilomet@gmail.com"
+git remote add origin URL.GIT
+git add.
+git commit "xx"
+git push origin master
+
+
+
+git branch 		ver rama actual
+git checkout NOMBRE		CAMBIAR RAMA
